@@ -1,0 +1,29 @@
+ToDo (Next update):
+AMT Editing
+Statistic facts to implement (to show off cool stats and stuff)
+Grammatical fixes
+Translations
+
+Further updates:
+More AMT creation options 
+--More texture sizing options with different colour options
+More Aura editing options
+--Editing the colours of aura, swapping different auras from characters (Cell's Super perfect aura mix with SSJ2 Gohan aura)
+More statistics
+--I'll find stuff to put statistics on, I like statistics
+Better formatting and layout
+--You will be able to see and read things more clearly and more evenly and the 
+AMO0 editing
+--Adding an extra line to the AMO0
+--Removing face AMGs (perhaps obselete if you are using the AMO0 lines but I will include it)
+AMG editing
+--Creating an AMG for a model part
+--Multiple model parts on an AMG
+--First AMG editing (making certain character parts different
+SLES editing
+--Basics like lighting and height swaps (maybe form swaps)
+
+
+To do MUCH later(possibly):
+LGBT (Lean's Ginyu Bodyswap Technique)
+A useable UI (User Interface), possibly using Tkinter, Pygame or even Pyglet.
